@@ -1,6 +1,6 @@
 // Data Structures
 // Stephen Gordon
-// Code provided by Micheal Assaf (professor), edited for notes
+// Code provided by Michael Assaf (professor), edited for notes
 
 import java.io.BufferedReader;
 import java.io.FileReader;
