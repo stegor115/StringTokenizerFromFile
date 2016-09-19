@@ -43,7 +43,7 @@ public class Main
 			sb.append("\nPRICE : " + "$" + price);
 			sb.append("\nSAMAccountNAME : " + username);
 			sb.append("\n*******************\n");
-
+			//Converts to a nice pretty string
 			System.out.println(sb.toString());
 		   }
 		}
